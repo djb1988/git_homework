@@ -1,0 +1,15 @@
+This repository has two programs inside of it.
+
+1- Ruby Pyramid
+2- Url Parser
+
+Both programs are written in Ruby and can be run from the Terminal. To run the Pyramid program, 
+you need to run the command "ruby pyramid(x)" where "x" is the argument so you need to enter a
+fixnum in its place when you run the code. The x value is the total number of rows that the
+pyramid will have when you run it.
+
+The URL Parser can also be run from the Terminal but its job is to break down a URL to the
+individual parts. You run the program by typing "ruby url_parser(url)" into the Terminal.
+"url" is the argument for the program so you should enter a full url in its place.
+
+Happy Coding!
